@@ -1,0 +1,36 @@
+1651881031633	geckodriver	INFO	Listening on 127.0.0.1:56881
+1651881031919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56882" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kb/3pjtmdb110z0myp6wf86bq0h0000gn/T/rust_mozprofileQ3JXbs"
+DevTools listening on ws://localhost:56882/devtools/browser/f67ec041-2790-409d-964e-1b2807b828da
+1651881054255	geckodriver	INFO	Listening on 127.0.0.1:57123
+1651881054769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57124" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kb/3pjtmdb110z0myp6wf86bq0h0000gn/T/rust_mozprofileRKIxxM"
+1651881055118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kb/3pjtmdb110z0myp6wf86bq0h0000gn/T/rust_mozprofileRKIxxM/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57124/devtools/browser/b217f0db-7e18-4c31-b9f8-98d5eae831b2
+1651881057258	Marionette	INFO	Listening on port 57157
+Read port: 57157
+1651881057345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 2515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.gbqofs.com/wwwpetfinder/p/detector-dom.min.js, line 51: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://z.moatads.com/pbb847483933/bsi.js#_moatApi94639595, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mindshareuskcdv360display362539807863/moatad.js#moatClientLevel1=27367552&moatClientLevel2=16629106014&moatClientLevel3=419784465&moatClientSlicer1=1, line 243: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 5614 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.gbqofs.com/wwwpetfinder/p/detector-dom.min.js, line 51: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 3928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 840 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.gbqofs.com/wwwpetfinder/p/detector-dom.min.js, line 51: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 1749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 3019 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.gbqofs.com/wwwpetfinder/p/detector-dom.min.js, line 51: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 7658 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 2719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 4724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 3259 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 6999 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 2189 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
